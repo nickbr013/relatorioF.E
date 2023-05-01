@@ -1,0 +1,16 @@
+body{
+    background-color: blueviolet;
+}
+.relatorio{
+    color: white;
+    display: block;
+}
+.pin{
+    display: flex;
+    margin: 1em;
+    padding: 1em;
+}
+.pin2{
+    display: block;
+    padding-right: 2%;
+}
